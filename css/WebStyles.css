@@ -1,0 +1,31 @@
+h1 {
+  color: blueviolet;
+  text-align: center;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-weight: 850;
+}
+h2 {
+  text-align: center;
+  font-weight: 100;
+  font-family: 'Calligraffitti', cursive;
+}
+p {
+  font-size: 24px;
+  font-family: papyrus;
+  line-height: 30px;
+}
+ul {
+  font-size: large;
+  line-height: 175%;
+  font-family: 'Shrikhand', cursive;
+  color: rgb(255, 0, 0);
+}
+a {
+  color:rgb(255, 0, 0)
+}
+a:hover {
+  color: blue;
+}
+a:link {
+  text-decoration: none;
+}
